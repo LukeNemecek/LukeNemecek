@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LukeNemecek
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Information technology
+- 🌱 I’m currently learning Information technology!
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
